@@ -56,7 +56,7 @@
 </head>
 <body>
   <img src="logo_hubvascular.png" alt="Logo HubVascular" class="logo">
-  <h1>Escolha O Curso Que Deseja Adquirir</h1>
+  <h1>Escolha O Curso Que Deseja</h1>
 
   <a href="https://wa.me/5524974048399?text=Olá%2C+tenho+interesse+no+curso+Acesso+Vasculares+Ecoguiados" class="button">Acesso Vasculares Ecoguiados</a>
   <a href="https://wa.me/5524974048399?text=Olá%2C+tenho+interesse+no+curso+Revascularizações+Membros+Inferiores+-+Do+Básico+Ao+Avançado" class="button">Revascularizações Membros Inferiores - Do Básico Ao Avançado</a>
